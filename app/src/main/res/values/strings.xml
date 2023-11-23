@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KnowItAll</string>
+    <string name="arrayBasics">Arrays	are	basically	collection	of	elements	having	same	name	and	same	data	type.
+Using	arrays,	 saves	 us	 from	 the	 time	and	effort	 required	 to	 declare	each	 of	 the
+element	of	array	individually.</string>
+</resources>
